@@ -45,6 +45,8 @@ function(FORMAT, RECORD, SEARCH) {
                     })
                 ]
         });
+       
+       let abc = 'AMar';
 
         return search_celigo_amzio_sett_fee;
     }
