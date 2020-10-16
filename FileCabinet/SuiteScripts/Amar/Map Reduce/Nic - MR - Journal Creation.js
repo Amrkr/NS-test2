@@ -45,10 +45,6 @@ function(FORMAT, RECORD, SEARCH) {
                     })
                 ]
         });
-       
-       let abc = 'AMar Gupta';
-
-        let name = '133';
 
         return search_celigo_amzio_sett_fee;
     }
